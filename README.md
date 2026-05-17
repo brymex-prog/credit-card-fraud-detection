@@ -11,6 +11,10 @@ Credit card fraud is extremely rare (0.17% of all transactions), making this a h
 - **Fraud rate:** 0.17%  
 - **Features:** 30 (V1–V28 PCA components, Amount, Hour)
 
+Dataset file is too big, download from;
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+
 ## 🛠️ Preprocessing
 - Created **Hour** feature from timestamp  
 - Standardized Amount and Hour  
